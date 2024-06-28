@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1060,
+        "name": "Eiza González",
+        "avatar": [
+            "https://github.com/anhptumax/multi-data-prankcall/raw/main/img/Eiza González.jpg"
+        ],
+        "video": [
+            "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/Eiza González.mp4"
+        ],
+        "messenger": "",
+        "isCelebrity": true,
+        "adsVc": false,
+        "adsMs": false
+    },
+    {
+        "id": 1061,
+        "name": "Hugo Sanchez",
+        "avatar": [
+            "https://github.com/anhptumax/multi-data-prankcall/raw/main/img/Hugo Sanchez.jpg"
+        ],
+        "video": [
+            "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/Hugo Sanchez.mp4"
+        ],
+        "messenger": "",
+        "isCelebrity": true,
+        "adsVc": false,
+        "adsMs": false
+    },
+    {
+        "id": 1062,
+        "name": "Melissa Barrera",
+        "avatar": [
+            "https://github.com/anhptumax/multi-data-prankcall/raw/main/img/Melissa Barrera.webp"
+        ],
+        "video": [
+            "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/Melissa Barrera.mp4"
+        ],
+        "messenger": "",
+        "isCelebrity": true,
+        "adsVc": false,
+        "adsMs": false
+    },
+    {
+        "id": 1063,
+        "name": "Neil Patrick Harris",
+        "avatar": [
+            "https://github.com/anhptumax/multi-data-prankcall/raw/main/img/Neil Patrick Harris.jpg"
+        ],
+        "video": [
+            "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/Neil Patrick Harris.mp4"
+        ],
+        "messenger": "",
+        "isCelebrity": true,
+        "adsVc": false,
+        "adsMs": false
+    },
+    {
+        "id": 1064,
+        "name": "Selena Gomez",
+        "avatar": [
+            "https://github.com/anhptumax/multi-data-prankcall/raw/main/img/Selena Gomez.jpg"
+        ],
+        "video": [
+            "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/Selena Gomez.mp4"
+        ],
+        "messenger": "",
+        "isCelebrity": true,
+        "adsVc": false,
+        "adsMs": false
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1050,
+        "name": "Diane Kruger",
+        "avatar": [
+            "https://github.com/anhptumax/multi-data-prankcall/raw/main/img/Diane Kruger.jpg"
+        ],
+        "video": [
+            "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/Diane Kruger.mp4"
+        ],
+        "messenger": "",
+        "isCelebrity": true,
+        "adsVc": false,
+        "adsMs": false
+    },
+    {
+        "id": 1051,
+        "name": "Emre Can",
+        "avatar": [
+            "https://github.com/anhptumax/multi-data-prankcall/raw/main/img/Emre Can.jpg"
+        ],
+        "video": [
+            "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/Emre Can.mp4"
+        ],
+        "messenger": "",
+        "isCelebrity": true,
+        "adsVc": false,
+        "adsMs": false
+    },
+    {
+        "id": 1052,
+        "name": "Ilkay Gundogan",
+        "avatar": [
+            "https://github.com/anhptumax/multi-data-prankcall/raw/main/img/Ilkay Gundogan.jpg"
+        ],
+        "video": [
+            "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/Ilkay Gundogan.mp4"
+        ],
+        "messenger": "",
+        "isCelebrity": true,
+        "adsVc": false,
+        "adsMs": false
+    },
+    {
+        "id": 1053,
+        "name": "Leroy Sane",
+        "avatar": [
+            "https://github.com/anhptumax/multi-data-prankcall/raw/main/img/Leroy Sane.jpg"
+        ],
+        "video": [
+            "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/Leroy Sane.mp4"
+        ],
+        "messenger": "",
+        "isCelebrity": true,
+        "adsVc": false,
+        "adsMs": false
+    },
+    {
+        "id": 1054,
+        "name": "Sandra Bullock",
+        "avatar": [
+            "https://github.com/anhptumax/multi-data-prankcall/raw/main/img/Sandra Bullock.jpg"
+        ],
+        "video": [
+            "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/Sandra Bullock.mp4"
+        ],
+        "messenger": "",
+        "isCelebrity": true,
+        "adsVc": false,
+        "adsMs": false
+    } 
+]

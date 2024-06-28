@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1000,
+        "name": "Cate Blanchett",
+        "avatar": [
+            "https://github.com/anhptumax/multi-data-prankcall/raw/main/img/Cate Blanchett.webp"
+        ],
+        "video": [
+            "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/Cate Blanchett.mp4"
+        ],
+        "messenger": "Hello, how are you  🤣 🤣 🤣?",
+        "isCelebrity": true,
+        "adsVc": false,
+        "adsMs": false
+    },
+    {
+        "id": 1001,
+        "name": "Keith Urban",
+        "avatar": [
+            "https://github.com/anhptumax/multi-data-prankcall/raw/main/img/Keith Urban.jpg"
+        ],
+        "video": [
+            "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/Keith Urban.mp4"
+        ],
+        "messenger": "",
+        "isCelebrity": true,
+        "adsVc": false,
+        "adsMs": false
+    },
+    {
+        "id": 1002,
+        "name": "Naomi Watts",
+        "avatar": [
+            "https://github.com/anhptumax/multi-data-prankcall/raw/main/img/Naomi Watts.jpg"
+        ],
+        "video": [
+            "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/Naomi Watts.mp4"
+        ],
+        "messenger": "",
+        "isCelebrity": true,
+        "adsVc": false,
+        "adsMs": false
+    },
+    {
+        "id": 1003,
+        "name": "Thor",
+        "avatar": [
+            "https://github.com/anhptumax/multi-data-prankcall/raw/main/img/Thor.webp"
+        ],
+        "video": [
+            "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/Thor.mp4"
+        ],
+        "messenger": "",
+        "isCelebrity": true,
+        "adsVc": false,
+        "adsMs": false
+    },
+    {
+        "id": 1004,
+        "name": "Wolverine",
+        "avatar": [
+            "https://github.com/anhptumax/multi-data-prankcall/raw/main/img/Wolverine.jpg"
+        ],
+        "video": [
+            "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/Wolverine.mp4"
+        ],
+        "messenger": "",
+        "isCelebrity": true,
+        "adsVc": false,
+        "adsMs": false
+    }
+]

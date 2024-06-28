@@ -1,0 +1,100 @@
+[
+    {
+        "id": 1080,
+        "name": "Benedict Cumberbatch",
+        "avatar": [
+            "https://github.com/anhptumax/multi-data-prankcall/raw/main/img/Benedict Cumberbatch.webp"
+        ],
+        "video": [
+            "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/Benedict Cumberbatch.mp4"
+        ],
+        "messenger": "",
+        "isCelebrity": true,
+        "adsVc": false,
+        "adsMs": false
+    },
+    {
+        "id": 1081,
+        "name": "Helena Bonham Carter",
+        "avatar": [
+            "https://github.com/anhptumax/multi-data-prankcall/raw/main/img/Helena Bonham Carter.jpg"
+        ],
+        "video": [
+            "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/Helena Bonham Carter.mp4"
+        ],
+        "messenger": "",
+        "isCelebrity": true,
+        "adsVc": false,
+        "adsMs": false
+    },
+    {
+        "id": 1082,
+        "name": "Idris Elba",
+        "avatar": [
+            "https://github.com/anhptumax/multi-data-prankcall/raw/main/img/Idris Elba.jpg"
+        ],
+        "video": [
+            "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/Idris Elba.mp4"
+        ],
+        "messenger": "",
+        "isCelebrity": true,
+        "adsVc": false,
+        "adsMs": false
+    },
+    {
+        "id": 1083,
+        "name": "Judi Dench",
+        "avatar": [
+            "https://github.com/anhptumax/multi-data-prankcall/raw/main/img/Judi Dench.jpg"
+        ],
+        "video": [
+            "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/Judi Dench.mp4"
+        ],
+        "messenger": "",
+        "isCelebrity": true,
+        "adsVc": false,
+        "adsMs": false
+    },
+    {
+        "id": 1084,
+        "name": "Keira Knightley",
+        "avatar": [
+            "https://github.com/anhptumax/multi-data-prankcall/raw/main/img/Keira Knightley.jpg"
+        ],
+        "video": [
+            "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/Keira Knightley.mp4"
+        ],
+        "messenger": "",
+        "isCelebrity": true,
+        "adsVc": false,
+        "adsMs": false
+    },
+    {
+        "id": 1085,
+        "name": "Speed",
+        "avatar": [
+            "https://github.com/anhptumax/multi-data-prankcall/raw/main/img/Speed.jpg"
+        ],
+        "video": [
+            "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/Speed.mp4"
+        ],
+        "messenger": "",
+        "isCelebrity": true,
+        "adsVc": false,
+        "adsMs": false
+    },
+    {
+        "id": 1086,
+        "name": "Tom Hardy",
+        "avatar": [
+            "https://github.com/anhptumax/multi-data-prankcall/raw/main/img/Tom Hardy.jpg"
+        ],
+        "video": [
+            "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/Tom Hardy.mp4"
+        ],
+        "messenger": "",
+        "isCelebrity": true,
+        "adsVc": false,
+        "adsMs": false
+    }
+]

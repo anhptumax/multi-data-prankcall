@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1070,
+        "name": "Anne Curtis",
+        "avatar": [
+            "https://github.com/anhptumax/multi-data-prankcall/raw/main/img/Anne Curtis.jpg"
+        ],
+        "video": [
+            "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/Anne Curtis.mp4"
+        ],
+        "messenger": "",
+        "isCelebrity": true,
+        "adsVc": false,
+        "adsMs": false
+    },
+    {
+        "id": 1071,
+        "name": "John Arcilla",
+        "avatar": [
+            "https://github.com/anhptumax/multi-data-prankcall/raw/main/img/John Arcilla.jpg"
+        ],
+        "video": [
+            "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/John Arcilla.mp4"
+        ],
+        "messenger": "",
+        "isCelebrity": true,
+        "adsVc": false,
+        "adsMs": false
+    },
+    {
+        "id": 1072,
+        "name": "Jon Jon Briones",
+        "avatar": [
+            "https://github.com/anhptumax/multi-data-prankcall/raw/main/img/Jon Jon Briones.jpg"
+        ],
+        "video": [
+            "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/Jon Jon Briones.mp4"
+        ],
+        "messenger": "",
+        "isCelebrity": true,
+        "adsVc": false,
+        "adsMs": false
+    },
+    {
+        "id": 1073,
+        "name": "Moira Dela Torre",
+        "avatar": [
+            "https://github.com/anhptumax/multi-data-prankcall/raw/main/img/Moira Dela Torre.jpg"
+        ],
+        "video": [
+            "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/Moira Dela Torre.mp4"
+        ],
+        "messenger": "",
+        "isCelebrity": true,
+        "adsVc": false,
+        "adsMs": false
+    },
+    {
+        "id": 1074,
+        "name": "Vanessa Hudgens",
+        "avatar": [
+            "https://github.com/anhptumax/multi-data-prankcall/raw/main/img/Vanessa Hudgens.jpeg"
+        ],
+        "video": [
+            "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/Vanessa Hudgens.mp4"
+        ],
+        "messenger": "",
+        "isCelebrity": true,
+        "adsVc": false,
+        "adsMs": false
+    }
+]
