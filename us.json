@@ -1,0 +1,128 @@
+[
+    {
+        "id": 1090,
+        "name": "Adele",
+        "avatar": [
+            "https://github.com/anhptumax/multi-data-prankcall/raw/main/img/Adele.png"
+        ],
+        "video": [
+            "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/Adele.mp4"
+        ],
+        "messenger": "",
+        "isCelebrity": true,
+        "adsVc": false,
+        "adsMs": false
+    },
+    {
+        "id": 1091,
+        "name": "Ariana Grande",
+        "avatar": [
+            "https://github.com/anhptumax/multi-data-prankcall/raw/main/img/Ariana Grande.webp"
+        ],
+        "video": [
+            "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/Ariana Grande.mp4"
+        ],
+        "messenger": "",
+        "isCelebrity": true,
+        "adsVc": false,
+        "adsMs": false
+    },
+    {
+        "id": 1092,
+        "name": "Beyoncé",
+        "avatar": [
+            "https://github.com/anhptumax/multi-data-prankcall/raw/main/img/Beyoncé.png"
+        ],
+        "video": [
+            "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/Beyoncé.mp4"
+        ],
+        "messenger": "",
+        "isCelebrity": true,
+        "adsVc": false,
+        "adsMs": false
+    },
+    {
+        "id": 1093,
+        "name": "Cardi B",
+        "avatar": [
+            "https://github.com/anhptumax/multi-data-prankcall/raw/main/img/Cardi B.jpg"
+        ],
+        "video": [
+            "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/Cardi B.mp4"
+        ],
+        "messenger": "",
+        "isCelebrity": true,
+        "adsVc": false,
+        "adsMs": false
+    },
+    {
+        "id": 1094,
+        "name": "Homelander",
+        "avatar": [
+            "https://github.com/anhptumax/multi-data-prankcall/raw/main/img/Homelander.jpg"
+        ],
+        "video": [
+            "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/Homelander.mp4"
+        ],
+        "messenger": "",
+        "isCelebrity": true,
+        "adsVc": false,
+        "adsMs": false
+    },
+    {
+        "id": 1095,
+        "name": "John Cena",
+        "avatar": [
+            "https://github.com/anhptumax/multi-data-prankcall/raw/main/img/John Cena.png"
+        ],
+        "video": [
+            "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/John Cena.mp4"
+        ],
+        "messenger": "",
+        "isCelebrity": true,
+        "adsVc": false,
+        "adsMs": false
+    },
+    {
+        "id": 1096,
+        "name": "Johny Depp",
+        "avatar": [
+            "https://github.com/anhptumax/multi-data-prankcall/raw/main/img/Johny Depp.jpg"
+        ],
+        "video": [
+            "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/Johny Depp.mp4"
+        ],
+        "messenger": "",
+        "isCelebrity": true,
+        "adsVc": false,
+        "adsMs": false
+    },
+    {
+        "id": 1097,
+        "name": "The rock",
+        "avatar": [
+            "https://github.com/anhptumax/multi-data-prankcall/raw/main/img/The rock.jpg"
+        ],
+        "video": [
+            "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/The rock.mp4"
+        ],
+        "messenger": "",
+        "isCelebrity": true,
+        "adsVc": false,
+        "adsMs": false
+    },
+    {
+        "id": 1098,
+        "name": "Bella Poarch",
+        "avatar": [
+            "https://github.com/anhptumax/multi-data-prankcall/raw/main/img/Bella Poarch.webp"
+        ],
+        "video": [
+            "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/Bella Poarch.mp4"
+        ],
+        "messenger": "",
+        "isCelebrity": true,
+        "adsVc": false,
+        "adsMs": false
+    }
+]
