@@ -1,0 +1,44 @@
+[
+    {
+        "adsMs": false,
+        "adsVc": false,
+        "avatar": [
+            "https://github.com/anhptumax/multi-data-prankcall/raw/main/img/wokong1.png"
+        ],
+        "id": 1100,
+        "isCelebrity": true,
+        "messenger": "Black Myth: Wukong",
+        "name": "Wukong",
+        "video": [
+            "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/wokong1.mp4"
+        ]
+    },
+    {
+        "adsMs": false,
+        "adsVc": false,
+        "avatar": [
+            "https://github.com/anhptumax/multi-data-prankcall/raw/main/img/wokong2.png"
+        ],
+        "id": 1110,
+        "isCelebrity": true,
+        "messenger": "Black Myth: Wukong",
+        "name": "Wukong",
+        "video": [
+            "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/wokong2.mp4"
+        ]
+    },
+    {
+        "adsMs": false,
+        "adsVc": false,
+        "avatar": [
+            "https://github.com/anhptumax/multi-data-prankcall/raw/main/img/wokong3.png"
+        ],
+        "id": 1120,
+        "isCelebrity": true,
+        "messenger": "Black Myth: Wukong",
+        "name": "Wukong",
+        "video": [
+            "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/wokong3.mp4"
+        ]
+    }
+]
