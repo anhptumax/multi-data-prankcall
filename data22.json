@@ -339,7 +339,7 @@
         "adsMs": false,
         "adsVc": false,
         "avatar": [
-            "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_img_idol/wokong1.png"
+            "https://github.com/anhptumax/multi-data-prankcall/raw/main/img/wokong1.png"
         ],
         "id": 47,
         "isCelebrity": true,
@@ -353,28 +353,28 @@
         "adsMs": false,
         "adsVc": false,
         "avatar": [
-            "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_img_idol/wokong1.png"
+            "https://github.com/anhptumax/multi-data-prankcall/raw/main/img/wokong1.png"
         ],
         "id": 48,
         "isCelebrity": true,
         "messenger": "Black Myth: Wukong",
         "name": "Wukong",
         "video": [
-            "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/wokong1.mp4"
+            "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/wokong2.mp4"
         ]
     },
     {
         "adsMs": false,
         "adsVc": false,
         "avatar": [
-            "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_img_idol/wokong1.png"
+            "https://github.com/anhptumax/multi-data-prankcall/raw/main/img/wokong1.png"
         ],
         "id": 49,
         "isCelebrity": true,
         "messenger": "Black Myth: Wukong",
         "name": "Wukong",
         "video": [
-            "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/wokong1.mp4"
+            "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/wokong3.mp4"
         ]
     }
 ]
