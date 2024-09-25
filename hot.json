@@ -65,12 +65,82 @@
             "https://github.com/thubow/prank-video-idol/raw/main/prank_img_idol/Rose.webp",
             "https://github.com/hongnhungumax/prank-video-idol/raw/main/prank_img_idol/Rose.webp"
         ],
-        "id": 1203,
+        "id": 1204,
         "isCelebrity": true,
         "messenger": "I think the most important thing for an artist is to have a sincere heart and love music.",
         "name": "Ros\u00e9",
         "video": [
             "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_video_idol/Rose.mp4"
+        ]
+    },
+    {
+        "adsMs": false,
+        "adsVc": false,
+        "avatar": [
+            "https://raw.githubusercontent.com/anhptumax/prank_sound/main/prankcall/avt_ronaldo.webp"
+        ],
+        "id": 1205,
+        "isCelebrity": true,
+        "messenger": "The difference between me and other players is that I constantly try to improve myself.",
+        "name": "Cristiano Ronaldo",
+        "video": [
+            "https://github.com/anhptumax/multi-data-prankcall/raw/refs/heads/main/video/cristiano_ronaldo_2.mp4"
+        ]
+    },
+    {
+        "adsMs": false,
+        "adsVc": false,
+        "avatar": [
+            "https://raw.githubusercontent.com/anhptumax/prank_sound/main/prankcall/avt_messi.webp"
+        ],
+        "id": 1206,
+        "isCelebrity": true,
+        "messenger": "The difference between me and other players is that I constantly try to improve myself.",
+        "name": "Lionel Messi",
+        "video": [
+            "https://github.com/anhptumax/multi-data-prankcall/raw/refs/heads/main/video/messi.mp4"
+        ]
+    },
+    {
+        "adsMs": false,
+        "adsVc": false,
+        "avatar": [
+            "https://raw.githubusercontent.com/anhptumax/prank_sound/main/prankcall/avt_christmas.webp"
+        ],
+        "id": 1207,
+        "isCelebrity": true,
+        "messenger": "Wish you a peaceful and happy Christmas 🎁 🎄 🧦 🎅🏻!",
+        "name": "Santa",
+        "video": [
+            "https://github.com/anhptumax/multi-data-prankcall/raw/refs/heads/main/video/christmas.mp4"
+        ]
+    },
+    {
+        "adsMs": false,
+        "adsVc": false,
+        "avatar": [
+            "https://raw.githubusercontent.com/anhptumax/prank_sound/main/prankcall/avt_venom.webp"
+        ],
+        "id": 1208,
+        "isCelebrity": true,
+        "messenger": "We… are Venom.",
+        "name": "Venom",
+        "video": [
+            "https://github.com/anhptumax/multi-data-prankcall/raw/refs/heads/main/video/venom.mp4"
+        ]
+    },
+    {
+        "adsMs": false,
+        "adsVc": false,
+        "avatar": [
+            "https://raw.githubusercontent.com/anhptumax/multi-data-prankcall/main/img/taylor swift.jpg"
+        ],
+        "id": 1209,
+        "isCelebrity": true,
+        "messenger": "The best way to take revenge is to succeed brilliantly.",
+        "name": "Taylor Swift",
+        "video": [
+            "https://github.com/anhptumax/multi-data-prankcall/raw/refs/heads/main/video/taylor_swift.mp4"
         ]
     }
 ]
