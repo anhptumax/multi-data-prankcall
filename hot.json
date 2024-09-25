@@ -5,7 +5,7 @@
         "avatar": [
             "https://github.com/anhptumax/multi-data-prankcall/raw/main/img/wokong3.png"
         ],
-        "id": 1220,
+        "id": 1200,
         "isCelebrity": true,
         "messenger": "Black Myth: Wukong",
         "name": "Wukong",
@@ -19,7 +19,7 @@
         "avatar": [
             "https://github.com/anhptumax/multi-data-prankcall/raw/main/img/wokong1.png"
         ],
-        "id": 1200,
+        "id": 1201,
         "isCelebrity": true,
         "messenger": "Black Myth: Wukong",
         "name": "Wukong",
@@ -33,12 +33,44 @@
         "avatar": [
             "https://github.com/anhptumax/multi-data-prankcall/raw/main/img/wokong2.png"
         ],
-        "id": 1210,
+        "id": 1202,
         "isCelebrity": true,
         "messenger": "Black Myth: Wukong",
         "name": "Wukong",
         "video": [
             "https://github.com/anhptumax/multi-data-prankcall/raw/main/video/wokong2.mp4"
+        ]
+    },
+    {
+        "adsMs": false,
+        "adsVc": false,
+        "avatar": [
+            "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_img_idol/Lisa.webp",
+            "https://github.com/thubow/prank-video-idol/raw/main/prank_img_idol/Lisa.webp",
+            "https://github.com/hongnhungumax/prank-video-idol/raw/main/prank_img_idol/Lisa.webp"
+        ],
+        "id": 1203,
+        "isCelebrity": true,
+        "messenger": "I always try my best to show my best self on stage. I want to give fans energetic performances and make them feel happy.",
+        "name": "Lisa",
+        "video": [
+            "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_video_idol/Lisa.mp4"
+        ]
+    },
+    {
+        "adsMs": false,
+        "adsVc": false,
+        "avatar": [
+            "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_img_idol/Rose.webp",
+            "https://github.com/thubow/prank-video-idol/raw/main/prank_img_idol/Rose.webp",
+            "https://github.com/hongnhungumax/prank-video-idol/raw/main/prank_img_idol/Rose.webp"
+        ],
+        "id": 1203,
+        "isCelebrity": true,
+        "messenger": "I think the most important thing for an artist is to have a sincere heart and love music.",
+        "name": "Ros\u00e9",
+        "video": [
+            "https://github.com/anhptumax/prank-sounds-res/raw/main/prank_video_idol/Rose.mp4"
         ]
     }
 ]
